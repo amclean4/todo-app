@@ -1,4 +1,4 @@
-import { registerRootComponent } from 'expo';
+vosiimport { registerRootComponent } from 'expo';
 
 import App from './App';
 
